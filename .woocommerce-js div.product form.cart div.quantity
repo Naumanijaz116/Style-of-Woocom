@@ -1,0 +1,59 @@
+.woocommerce-js div.product form.cart div.quantity {
+    display: flex;
+	justify-content: space-between;
+}
+.woocommerce-breadcrumb a {
+    color: #545358 !important;
+    font-weight: 900;
+}
+.woocommerce .add-request-quote-button.button, .woocommerce .add-request-quote-button-addons.button, .yith-wceop-ywraq-button-wrapper .add-request-quote-button.button, .yith-wceop-ywraq-button-wrapper .add-request-quote-button-addons.button {
+    background-color: #757a7e !important;
+    color: #ffffff !important;
+    border-radius: 12pc;
+}
+.astra-shop-summary-wrap .ast-woo-product-category {
+    margin-top: 5px;
+    font-weight: 600;
+    color: #e6e6ed !important;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before, .woocommerce div.ast-product-tabs-layout-vertical .woocommerce-tabs ul.tabs li:hover::before {
+    background: #868a8d;
+}
+.astra-shop-summary-wrap h2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    margin-top: 10px !important;
+    font-size: 17px !important;
+    color: white;
+}
+.astra-shop-summary-wrap .ast-woo-shop-product-description {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    margin-bottom: 30px;
+    color: #ede8e6bd;
+}
+.woocommerce .add-request-quote-button.button, .woocommerce .add-request-quote-button-addons.button, .yith-wceop-ywraq-button-wrapper .add-request-quote-button.button, .yith-wceop-ywraq-button-wrapper .add-request-quote-button-addons.button {
+    background-color: #757a7e !important;
+    color: #ffffff !important;
+    border-radius: 12pc;
+	padding: 10px 20px;
+	vertical-align: middle;
+    float: left;
+    width: auto;
+    margin-bottom: 1em;
+	margin-right: 5px;
+	color: white;
+    border-radius: 20px;
+    height: 50px;
+    border: 0;
+    font: 600 16px / 1.6 "Roboto", sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 10px 25px;
+    transition: background 0.3s linear;
+}
